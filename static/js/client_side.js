@@ -85,7 +85,7 @@ $(document).ready(function(){
 	else {
 		str += "<h3>Hasil Prediksi </h3>";
 		str += "<br>";
-		str += "<img src='" + image_prediksi + "' width=\"200\"></img>"
+		str += "<img src='" + image_prediksi + "' width=\"500\"></img>"
 		for (const name in nameCounts) {
 			if (nameCounts[name] > 0) {
 				str += "<h3>" + nameCounts[name] + " " + name +  "</h3>";
