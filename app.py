@@ -12,6 +12,7 @@ from wtforms import FileField, SubmitField
 from wtforms.validators import InputRequired
 from werkzeug.utils import secure_filename
 from infer import *
+from flask_ngrok import run_with_ngrok
 
 # =[Variabel Global]=============================
 app = Flask(__name__)
@@ -97,7 +98,7 @@ def detect_objects_on_image(buf):
 if __name__ == '__main__':
 
 	# # Run Flask di Google Colab menggunakan ngrok
-	#run_with_ngrok(app)
+	run_with_ngrok(app)
 	app.run(debug=True)
 	
 

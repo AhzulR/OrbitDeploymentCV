@@ -1,4 +1,5 @@
 Flask==3.0.0
+flask_ngrok==0.0.25
 flask_wtf==1.2.1
 infer==0.1
 numpy==1.26.2
