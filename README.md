@@ -1,7 +1,7 @@
 # MBKM di Orbit Future Acaademy
 ## Deployment Proyek Akhir 
 
-<h1>Judul Projek : Early Detection of Structural Cracks (EDSC): A Key to Quality Assurance /h1><br><br>
+<h1>Judul Projek : Early Detection of Structural Cracks (EDSC): A Key to Quality Assurance </h1> <br><br>
 Nama kelompok : Cappadocia Visionaries | K07 <br>
 Anggota kelompok :
 1. Anugrah Ahzul Raihan
